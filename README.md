@@ -1,17 +1,22 @@
 # Red-Team-Resource-Hub
-This repository will consistently collects &amp; updates on Cybersecurity news worldwide that are relevant in strategies mitigating threats across multi-topics.
-Focus in Social-engineering, Physical/Cyber Red Teaming, Reconnaissant, and related communities.  
-The purpose of this page is to Research, Bookmark, Organize, Iterate/Improve, and Share useful materials for new learners.
+* This repository will consistently collects &amp; updates on Cybersecurity news worldwide that are relevant in strategies mitigating threats across multi-topics.
+
+* Focus in Social-engineering, Physical/Cyber Red Teaming, Reconnaissant, and related communities.  
+
+* The purpose of this page is to Research, Bookmark, Organize, Iterate/Improve, and Share useful materials for new learners.
 
 ---
 
 ## Communities
-- [Community Name](LINK) - What this community focuses on
-- [Community Name](LINK) - Why it is useful
+- [r/cybersecurity]([LINK](https://www.reddit.com/r/cybersecurity/top/?t=week)) - Sub-reddit gather information on news general cybersecurity world-wide.
+- [LiveCommunity Palo Alto]([LINK](https://live.paloaltonetworks.com/)) - Articles, Posts, News, Trends share insight, ask questions, supports develop cybersecurity knowledges including firewall, endpoint, cloud, threat detection, and zero-trust security.
+- 
 
 ## Researchers
-- [Name / Organization](LINK) - Why they are worth following
-- [Name / Organization](LINK) - Key research area
+- [HackTheBox Discord]([LINK](https://www.hackthebox.com/community?utm_source=chatgpt.com)) - An Academic Discord specialize in educate hacking challenges, information security, and experimenting cybersecurity implications.
+- [TryHackMe]([LINK](https://tryhackme.com/)) - TryHackMe’s official Discord is built around learning ethical hacking from the ground up, with help on rooms, course content, events, and career discussion
+- [TOOOL]([LINK](https://toool.us/)) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking, with local chapter meetings and an online Discord community
+- [Red Team Village]([LINK](https://redteamvillage.io/)) - Red Team Village states that its mission is to foster a collaborative environment for offensive security skills and offers workshops, training sessions, competitions, and events.
 
 ## Tools
 - [Tool Name](LINK) - What it does
