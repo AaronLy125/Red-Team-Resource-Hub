@@ -8,7 +8,7 @@
 ---
 
 ## Communities
-- [\[r/cybersecurity\]]((https://www.reddit.com/r/cybersecurity/top/?t=week)) - Sub-reddit gather information on news general cybersecurity world-wide.
+- [\[r/cybersecurity\]](https://www.reddit.com/r/cybersecurity/top/?t=week)) - Sub-reddit gather information on news general cybersecurity world-wide.
 - [\[LiveCommunity Palo Alto\]](https://live.paloaltonetworks.com/)) - Articles, Posts, News, Trends share insight, ask questions, supports develop cybersecurity knowledges including firewall, endpoint, cloud, threat detection, and zero-trust security.
 - [\[Red Team Village\]](https://redteamvillage.io/) - Red Team Village states that its mission is to foster a collaborative environment for offensive security skills and offers workshops, training sessions, competitions, and events.
 
