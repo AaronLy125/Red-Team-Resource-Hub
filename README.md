@@ -15,7 +15,7 @@
 ## Researchers
 - [HackTheBox Discord]([LINK](https://www.hackthebox.com/community?utm_source=chatgpt.com)) - An Academic Discord specialize in educate hacking challenges, information security, and experimenting cybersecurity implications.
 - [TryHackMe]([LINK](https://tryhackme.com/)) - TryHackMe’s official Discord is built around learning ethical hacking from the ground up, with help on rooms, course content, events, and career discussion
-- [TOOOL]([LINK](https://toool.us/)) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking, with local chapter meetings and an online Discord community
+- ([LINK]((https://toool.us/)[TOOOL]) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking, with local chapter meetings and an online Discord community
 - [Red Team Village]([LINK](https://redteamvillage.io/) - Red Team Village states that its mission is to foster a collaborative environment for offensive security skills and offers workshops, training sessions, competitions, and events.
 - [Project Owl] - Interest in learning method of gathering intels in cyberworld? Project Owl Discord community is specifically framed around open-source intelligence, global event monitoring, and networking with other OSINT-focused members
 
