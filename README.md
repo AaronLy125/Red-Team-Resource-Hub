@@ -41,7 +41,7 @@
 - [\[Black Hat USA 2025\]](https://blackhat.com/us-25/) – One of the top conferences for cutting-edge security research, exploit development, malware research, and tool releases.  
   * Media [\[Black Hat Archives\]](https://blackhat.com/html/archives.html)  
   * YouTube: [\[Black Hat Official\]](https://www.youtube.com/@BlackHatOfficialYT)
-  * 
+  
 - [\[DEF CON 33\]](https://defcon.org/) – Major hacker conference with villages, hands-on activities, offensive and defensive research, and a large public archive.  
   * Media archive: [\[DEF CON Media Server\]](https://media.defcon.org/)  
   * YouTube: [\[DEF CON Conference\]](https://www.youtube.com/@DEFCONConference)
@@ -60,13 +60,28 @@
       What surprised me most is that an AI can be influenced not just by what a user types directly, but also by text hidden inside sources it reads.
 
 ## Obscure Resources
-- [Mailing list / forum / Mastodon / group](LINK) - Why it stood out
-- [Smaller community resource](LINK) - Why it is useful
+- [\[AI Village\]](https://aivillage.org/) – Community of hackers and data scientists working to educate people on the AI security community with a blog and Discord focused on the use and abuse of AI in security and privacy.
+- [\[RISKS Digest\]](https://catless.ncl.ac.uk/Risks/) – Long-running ACM forum focused on risks to the public in computers, privacy, safety, and ethics.
+- [\[BreachExchange\]](https://seclists.org/dataloss/) – Useful for data breach case studies, cyber insurance discussion, and risk metrics.
 
 ## Starter Projects
-1. Build a glossary of red teaming terms
-2. Compare 3 tools used in this field
-3. Create a beginner checklist for learning this area
+1. Beginner Hacking Journal
+Work through beginner-friendly labs such as Bandit, picoCTF, or a TryHackMe beginner path and keep notes on what you learned from each challenge.
+- Track commands, concepts, mistakes, and lessons learned
+- Build a personal reference for Linux, networking, web, and basic security ideas
+- Good for beginners because progress is easy to see
+
+2. Safe Web Security Lab Notebook
+Use OWASP Juice Shop as a training lab and organize a notebook by security topic.
+- Create sections for authentication, input handling, APIs, and common web risks
+- Write short summaries of what each category teaches
+- Good for beginners because it connects theory to a real training application
+
+3. Community Discovery Map
+Create a small guide to beginner-friendly security communities and events.
+- Include one OWASP chapter, one DEF CON Group, one BSides event, and one physical-security community like TOOOL
+- Add a short description of what each group offers
+- Good for beginners because community is often how people stay motivated and keep learning
 
 ## Reflection
 While completing this assignment, I found that the most useful part was organizing scattered resources into one place.  
