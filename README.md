@@ -5,23 +5,30 @@
 
 * The purpose of this page is to Research, Bookmark, Organize, Iterate/Improve, and Share useful materials for new learners.
 
+* This is personal small fun project I do on my own research, and resource I found useful whenever I needs.
+
 ---
 
 ## Communities
 - [\[r/cybersecurity\]](https://www.reddit.com/r/cybersecurity/top/?t=week)) - Sub-reddit gather information on news general cybersecurity world-wide.
 - [\[LiveCommunity Palo Alto\]](https://live.paloaltonetworks.com/)) - Articles, Posts, News, Trends share insight, ask questions, supports develop cybersecurity knowledges including firewall, endpoint, cloud, threat detection, and zero-trust security.
 - [\[Red Team Village\]](https://redteamvillage.io/) - Red Team Village states that its mission is to foster a collaborative environment for offensive security skills and offers workshops, training sessions, competitions, and events.
+- [\[TOOOL\]](https://toool.us/) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking educations, with local chapter meetings and an online Discord community asking questions and develop skills with professionals.
 
 ## Researchers
 - [\[HackTheBox Discord\]](https://www.hackthebox.com/community?utm_source=chatgpt.com/) - An Academic Discord specialize in educate hacking challenges, information security, and experimenting cybersecurity implications.
-- [\[TryHackMe\]]((https://tryhackme.com/)) - TryHackMe’s official Discord is built around learning ethical hacking from the ground up, with help on rooms, course content, events, and career discussion
-- [\[TOOOL\]](https://toool.us/) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking, with local chapter meetings and an online Discord community
-- 
-- [Project Owl] - Interest in learning method of gathering intels in cyberworld? Project Owl Discord community is specifically framed around open-source intelligence, global event monitoring, and networking with other OSINT-focused members gathered from breach incidents.
+- [\[TryHackMe\]](https://tryhackme.com/)) - TryHackMe’s official Discord is built around learning ethical hacking from the ground up, with help on rooms, course content, events, and career discussion. Constantly finding new method in defending new cyberattacks, and educate self-defense cybersecurity.
+- [\[Project Owl\]](https://x.com/projectowlosint) - Interest in learning method of gathering intels in cyberworld? Project Owl Discord community is specifically framed around open-source intelligence, global event monitoring, and networking with other OSINT-focused members gathered from breach incidents.
 
 ## Tools
-- [Tool Name](LINK) - What it does
-- [Tool Name](LINK) - What kind of work it supports
+- [\[OWASP Juice Shop\]](https://github.com/juice-shop/juice-shop?tab=readme-ov-file#nodejs-version-compatibility)) - A lab envinronment demos where you can find vulnerability in the platform intention of educating web, safe training, awareness demos, and testing tools in a lab environment.
+- [\[OverTheWire: Wargame\]](https://overthewire.org/wargames/)) - Hands on platform teach beginners step by step education to learn and practice cybersecurity includes multiple level of different topics using Kali Linux, web security, cryptography, reverse engineering, etc.
+- [\[Nmap\]](https://nmap.org/) - Network scanning, network discovery, security auditing, and inventory management tool.
+- [\[Wireshark\]](https://www.wireshark.org/) - Network packet analyzer tool allow user to understand package transitting across network.
+- [\[Tenable Nessus\]](https://www.tenable.com/) - System vulnerability assessment tool solution that scans IT environments—including networks, devices, and cloud services to identify security flaws, misconfigurations, and missing patches.
+- [\[Flipper Zero\]](https://flipper.net/) - Great for beginner cyber portable multi-tool for exploring access control systems, RFID, radio protocols, NFC, GPIO, and hardware interaction. It is a strong example of a hardware learning platform.
+- [\[Proxmark3\]](https://github.com/rfidresearchgroup/proxmark3) - An advanced RFID analysis in lab and research settings, allowing for interactions with the vast majority of RFID tags.
+- 
 
 ## Writeups / Case Studies
 - [Article / Case Study](LINK) - Main takeaway
