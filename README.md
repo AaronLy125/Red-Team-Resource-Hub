@@ -38,8 +38,12 @@
 - [\[SANS\]](https://www.sans.org/newsletters/ouch/text-messaging-attacks-smishing-saga) – SANS Institution updates on cybersecurity awareness training. This article about short, practical security awareness writeups that are easy for beginners to understand.
 
 ## Events / Conferences
-- [Conference Name](LINK) - Focus area
-- [Conference Videos / Media](LINK) - Good learning resource
+- [\[Black Hat USA 2025\]](https://blackhat.com/us-25/) – One of the top conferences for cutting-edge security research, exploit development, malware research, and tool releases.  
+  * Media [\[Black Hat Archives\]](https://blackhat.com/html/archives.html)  
+  * YouTube: [\[Black Hat Official\]](https://www.youtube.com/@BlackHatOfficialYT)
+- [DEF CON 33](https://defcon.org/)** – Major hacker conference with villages, hands-on activities, offensive and defensive research, and a large public archive.  
+  * Media archive: [\[DEF CON Media Server\]](https://media.defcon.org/)  
+  * YouTube: [\[DEF CON Conference\]](https://www.youtube.com/@DEFCONConference)
 
 ## Rabbit Holes
 - Topic that caught my attention:
