@@ -41,9 +41,14 @@
 - [\[Black Hat USA 2025\]](https://blackhat.com/us-25/) – One of the top conferences for cutting-edge security research, exploit development, malware research, and tool releases.  
   * Media [\[Black Hat Archives\]](https://blackhat.com/html/archives.html)  
   * YouTube: [\[Black Hat Official\]](https://www.youtube.com/@BlackHatOfficialYT)
-- [DEF CON 33](https://defcon.org/)** – Major hacker conference with villages, hands-on activities, offensive and defensive research, and a large public archive.  
+  * 
+- [\[DEF CON 33\]](https://defcon.org/) – Major hacker conference with villages, hands-on activities, offensive and defensive research, and a large public archive.  
   * Media archive: [\[DEF CON Media Server\]](https://media.defcon.org/)  
   * YouTube: [\[DEF CON Conference\]](https://www.youtube.com/@DEFCONConference)
+
+- [\[RSAC Conference 2025\]](https://www.rsaconference.com/events/2025-usa) – Broad cybersecurity conference that is especially useful for enterprise, cloud, AI, governance, and top-rated sessions.  
+  - Library: [\[RSAC Library\]](https://www.rsaconference.com/library)  
+  - YouTube: [\[RSA Conference\]](https://www.youtube.com/user/RSAConference)
 
 ## Rabbit Holes
 - Topic that caught my attention:
