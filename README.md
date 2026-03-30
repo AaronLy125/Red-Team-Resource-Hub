@@ -14,6 +14,7 @@
 - [\[LiveCommunity Palo Alto\]](https://live.paloaltonetworks.com/)) - Articles, Posts, News, Trends share insight, ask questions, supports develop cybersecurity knowledges including firewall, endpoint, cloud, threat detection, and zero-trust security.
 - [\[Red Team Village\]](https://redteamvillage.io/) - Red Team Village states that its mission is to foster a collaborative environment for offensive security skills and offers workshops, training sessions, competitions, and events.
 - [\[TOOOL\]](https://toool.us/) - TOOOL is a nonprofit focused on public knowledge of locks and lock picking educations, with local chapter meetings and an online Discord community asking questions and develop skills with professionals.
+- [\[r/OSINT\]](https://www.reddit.com/r/OSINT/) - Another useful sub-reddit explore and learn about OSINT, including various tactics and tools. Discussions on all aspects of OSINT.
 
 ## Researchers
 - [\[HackTheBox Discord\]](https://www.hackthebox.com/community?utm_source=chatgpt.com/) - An Academic Discord specialize in educate hacking challenges, information security, and experimenting cybersecurity implications.
@@ -26,13 +27,15 @@
 - [\[Nmap\]](https://nmap.org/) - Network scanning, network discovery, security auditing, and inventory management tool.
 - [\[Wireshark\]](https://www.wireshark.org/) - Network packet analyzer tool allow user to understand package transitting across network.
 - [\[Tenable Nessus\]](https://www.tenable.com/) - System vulnerability assessment tool solution that scans IT environments—including networks, devices, and cloud services to identify security flaws, misconfigurations, and missing patches.
+- [\[SpiderFoot\]](https://github.com/smicallef/spiderfoot) - Open-source OSINT automation and attack-surface mapping tool.
+- [\[Zeek\]](https://zeek.org/) - Open-source tools network security monitoring and traffic analysis platform.
 - [\[Flipper Zero\]](https://flipper.net/) - Great for beginner cyber portable multi-tool for exploring access control systems, RFID, radio protocols, NFC, GPIO, and hardware interaction. It is a strong example of a hardware learning platform.
 - [\[Proxmark3\]](https://github.com/rfidresearchgroup/proxmark3) - An advanced RFID analysis in lab and research settings, allowing for interactions with the vast majority of RFID tags.
-- 
 
 ## Writeups / Case Studies
-- [Article / Case Study](LINK) - Main takeaway
-- [Writeup](LINK) - Why it is useful for beginners
+- [\[Google Cloud\]](https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion) - Google Cloud source are relevant studies to learn cloud network and platform. This case study focus on customer instances, credential theft, and data extortion.
+- [\[CISA Red Team\]](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-193a) - CISA focus strong on critical infrastructure nation level can find deep level information; useful for a research page because it turns offensive findings into defensive takeaways.
+- [\[SANS\]](https://www.sans.org/newsletters/ouch/text-messaging-attacks-smishing-saga) – SANS Institution updates on cybersecurity awareness training. This article about short, practical security awareness writeups that are easy for beginners to understand.
 
 ## Events / Conferences
 - [Conference Name](LINK) - Focus area
