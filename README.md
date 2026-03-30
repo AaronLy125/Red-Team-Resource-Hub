@@ -52,8 +52,12 @@
 
 ## Rabbit Holes
 - Topic that caught my attention:
-  - [Link](LINK) - Why it was interesting
-  - [Link](LINK) - Fun fact or surprising detail
+  * [\[Bellingcat – First Steps to Getting Started in Open Source Research\]](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/)
+      Bellingcat’s toolkit includes categories like satellite imagery, maps, social media, transportation, and archiving.
+      Many of the tools in that toolkit can be used for free, which makes OSINT more accessible than I expected.
+  * [\[OWASP Top 10 for LLM Applications 2025\]](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
+      Prompt injection is listed as **LLM01** in the OWASP Top 10 for LLM Applications, which shows how central this issue has become in AI security.
+      What surprised me most is that an AI can be influenced not just by what a user types directly, but also by text hidden inside sources it reads.
 
 ## Obscure Resources
 - [Mailing list / forum / Mastodon / group](LINK) - Why it stood out
