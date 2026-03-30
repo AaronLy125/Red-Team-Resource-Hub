@@ -65,9 +65,6 @@
 - [\[BreachExchange\]](https://seclists.org/dataloss/) – Useful for data breach case studies, cyber insurance discussion, and risk metrics.
 
 ## Starter Projects
-In conclusion, my thought for those who are interesting or thinking about entering Cybersecurity, I thought cybersecurity was just hacking, coding, and breaking things. But I learned that it is really about understanding threats, how attackers think, and how to protect systems from being harmed. That is what makes it interesting to me. You are not only learning technology, but also how to defend people, data, and important infrastructure.
-
-These are my little guidance on maybe could help you in taking your way into Cybersecurity and everyone is different. I hope these resources can be helpful and I will try to update this GitHub whenever I can.
 1. Beginner Hacking Journal
 Work through beginner-friendly labs such as Bandit, picoCTF, or a TryHackMe beginner path and keep notes on what you learned from each challenge.
   * Track commands, concepts, mistakes, and lessons learned.
