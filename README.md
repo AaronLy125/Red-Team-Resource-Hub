@@ -70,21 +70,21 @@ In conclusion, my thought for those who are interesting or thinking about enteri
 These are my little guidance on maybe could help you in taking your way into Cybersecurity and everyone is different. I hope these resources can be helpful and I will try to update this GitHub whenever I can.
 1. Beginner Hacking Journal
 Work through beginner-friendly labs such as Bandit, picoCTF, or a TryHackMe beginner path and keep notes on what you learned from each challenge.
-- Track commands, concepts, mistakes, and lessons learned
-- Build a personal reference for Linux, networking, web, and basic security ideas
-- Good for beginners because progress is easy to see
+  * Track commands, concepts, mistakes, and lessons learned.
+  * Build a personal reference for Linux, networking, web, and basic security ideas.
+  * Good for beginners because progress is easy to see.
 
 2. Safe Web Security Lab Notebook
 Use OWASP Juice Shop as a training lab and organize a notebook by security topic.
-- Create sections for authentication, input handling, APIs, and common web risks
-- Write short summaries of what each category teaches
-- Good for beginners because it connects theory to a real training application
+  * Create sections for authentication, input handling, APIs, and common web risks.
+  * Write short summaries of what each category teaches.
+  * Good for beginners because it connects theory to a real training application.
 
 3. Community Discovery Map
 Create a small guide to beginner-friendly security communities and events.
-- Include one OWASP chapter, one DEF CON Group, one BSides event, and one physical-security community like TOOOL
-- Add a short description of what each group offers
-- Good for beginners because community is often how people stay motivated and keep learning
+  * Include one OWASP chapter, one DEF CON Group, one BSides event, and one physical-security community like TOOOL.
+  * Add a short description of what each group offers.
+  * Good for beginners because community is often how people stay motivated and keep learning.
 
 ## Reflection
 While completing this assignment, I found that the most useful part was organizing scattered resources into one place.  
